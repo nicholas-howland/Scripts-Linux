@@ -3,7 +3,7 @@ printFunction () {
 echo "Function with no params"
 }
 
-paramFunction(){
+paramFunction() {
 echo "The first paramiter was as follows"
 echo $1
 }
